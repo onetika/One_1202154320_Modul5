@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.android.one_1202154320_modul5.Tambah">
+    tools:context="com.example.android.susulan_modul5_onetikasuryati_1202154320.Tambah">
 
     <TextView
         android:id="@+id/textView2"

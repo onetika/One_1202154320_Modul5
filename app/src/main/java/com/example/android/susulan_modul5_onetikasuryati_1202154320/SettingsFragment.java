@@ -1,6 +1,5 @@
-package com.example.android.one_1202154320_modul5;
+package com.example.android.susulan_modul5_onetikasuryati_1202154320;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.preference.PreferenceFragmentCompat;
 

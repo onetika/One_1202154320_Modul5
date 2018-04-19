@@ -1,4 +1,4 @@
-package com.example.android.one_1202154320_modul5;
+package com.example.android.susulan_modul5_onetikasuryati_1202154320;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.android.one_1202154320_modul5", appContext.getPackageName());
+        assertEquals("com.example.android.susulan_modul5_onetikasuryati_1202154320", appContext.getPackageName());
     }
 }

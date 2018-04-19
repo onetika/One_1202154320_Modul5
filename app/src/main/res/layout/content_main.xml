@@ -7,7 +7,7 @@
     android:orientation="vertical"
     android:layout_height="match_parent"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.example.android.one_1202154320_modul5.MainActivity"
+    tools:context="com.example.android.susulan_modul5_onetikasuryati_1202154320.MainActivity"
     tools:showIn="@layout/activity_main">
 
     <android.support.v7.widget.RecyclerView
